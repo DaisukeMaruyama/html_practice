@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: rgb(94, 94, 87);
+}
+
+.main-visual {
+	background-image: url(img/mv.jpg);
+	background-position: bottom center;
+	background-size: cover;
+	height: 400px;
+	width: 100%;
+}
+
+.title {
+	padding: 20px 0 0 20px;
+}
+
+main {
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin: 0 auto;
+	width: 840px;
+}
+
+.lessons {
+	text-align: left;
+	
+}
+
+.lesson {
+	padding: 30px 0;
+	border-bottom: 1px solid rgb(189, 189, 185);
+}
